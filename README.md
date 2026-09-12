@@ -2,10 +2,10 @@
 
 # Eduardo Antonio
 
-### Java Backend Developer &nbsp;·&nbsp; Machine Learning Enthusiast
+### Backend Engineer &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Machine Learning
 
-Building scalable backend systems with **Java**, **Spring Boot** and **Quarkus** —
-and exploring **Machine Learning** and **Deep Learning** on the side.
+Designing and building distributed backend systems with **Java**, **Spring Boot** and **Quarkus**,
+and applying **Machine Learning** and **Deep Learning** to solve real-world problems.
 
 </div>
 
@@ -34,14 +34,10 @@ and exploring **Machine Learning** and **Deep Learning** on the side.
 <tr>
 <td>
 
-💼&nbsp; Backend development with **Java**, **Spring Boot** & **Quarkus**
-🧠&nbsp; Exploring **Machine Learning** & **Deep Learning**
-📱&nbsp; Cross-platform apps with **Flutter**
+⚙️&nbsp; Backend systems and distributed architectures with **Java**, **Spring Boot** and **Quarkus**
+🧠&nbsp; Applying **Machine Learning** and **Deep Learning** to production-grade problems
+📱&nbsp; Cross-platform mobile development with **Flutter**
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center"><i>Thanks for stopping by!</i></div>
