@@ -1,31 +1,47 @@
-<h1 align="center">Hi, I'm Eduardo 👋</h1>
-<h3 align="center">Backend Developer focused on Java & Spring</h3>
+<div align="center">
 
-<p align="center">
-  I build backend services and APIs with Java and the Spring ecosystem (Spring Boot, Spring Cloud),
-  work with Docker for containerization, and also develop cross-platform mobile apps with Flutter.
-</p>
+# Eduardo Antonio
 
-<br/>
+### Java Backend Developer &nbsp;·&nbsp; Machine Learning Enthusiast
 
-### 🛠️ Tech Stack
+Building scalable backend systems with **Java**, **Spring Boot** and **Quarkus** —
+and exploring **Machine Learning** and **Deep Learning** on the side.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 🌱 Currently
-
-- Deepening backend/microservices architecture skills (service discovery with Eureka, Spring Cloud)
-- Studying Java best practices from *Effective Java*
-- Building cross-platform apps with Flutter
+</div>
 
 <br/>
 
-<p align="center"><i>Thanks for stopping by!</i></p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td>
+
+💼&nbsp; Backend development with **Java**, **Spring Boot** & **Quarkus**
+🧠&nbsp; Exploring **Machine Learning** & **Deep Learning**
+📱&nbsp; Cross-platform apps with **Flutter**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center"><i>Thanks for stopping by!</i></div>
